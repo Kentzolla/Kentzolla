@@ -1,4 +1,4 @@
-![NextStepAI](banner.png)
+
 
 # Hi, I'm Yaro 👋
 
@@ -12,6 +12,6 @@ I explore what's next with AI: tools, agents and automation, explained without h
 
 **Follow along**
 
-[![X](https://img.shields.io/badge/X-@NextStepAI1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NextStepAI1)
+https://x.com/kentozolla
 
 New AI tool breakdowns every week.
