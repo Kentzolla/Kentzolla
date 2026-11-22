@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Yaro 👋
+# Hi, I'm Ken 👋
 
 I explore what's next with AI: tools, agents and automation, explained without hype.
 
